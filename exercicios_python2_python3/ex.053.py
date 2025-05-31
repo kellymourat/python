@@ -29,8 +29,8 @@ else:
 #palíndromo é uma sequência de caracteres (string) que se lê da mesma forma de frente para trás e de trás para frente. Por exemplo, "radar", "madam" e "arara" são palíndromos
 
 #.split() é um método de string que divide uma string em uma lista de substrings, usando um separador especificado como argumento.
-       """
-       sem separdor:
+    
+     '''  sem separdor:
 
        frase = "Olá, mundo!"
        lista_de_palavras = frase.split()
@@ -46,22 +46,22 @@ else:
 
        frase = "a,b,c,d,e"
        lista_de_substrings = frase.split(",", 2)
-       print(lista_de_substrings)  # Saída: ['a', 'b', 'c,d,e']
+       print(lista_de_substrings)  # Saída: ['a', 'b', 'c,d,e']'''
 
 
 
-       """
+       
 
 
 #texto[::-1]: Cria uma cópia invertida da string usando o slicing [::-1].
 
 # .join() é um método usado para concatenar (juntar) os elementos de um iterável (como uma lista, tupla ou string) em uma única string. Ele insere uma string especificada como separador entre cada elemento do iterável. 
-       """
+     '''
        palavras = ["Olá", "mundo", "!" ]
        separador = " "
        frase = separador.join(palavras)
        print(frase) # Saída: Olá mundo !
-       """
+     '''
 
 
 
