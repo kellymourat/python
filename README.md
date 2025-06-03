@@ -1,4 +1,4 @@
-# Curso de Python :brain: – Curso em Vídeo (Professor Gustavo Guanabara)
+# :brain: Curso de Python – Curso em Vídeo (Professor Gustavo Guanabara)
 
 Este repositório reúne todos os exercícios práticos que desenvolvi durante o curso completo de Python, ministrado pelo Professor Gustavo Guanabara, no canal Curso em Vídeo. Foram mais de 100 dias de estudo contínuo, com todos os exercícios feitos no PyCharm e salvos individualmente com extensão `.py`.
 
